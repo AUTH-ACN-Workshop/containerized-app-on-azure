@@ -16,8 +16,8 @@ This repository contains the instructions and resources that you'll use to learn
 0. **[Configure Your Environment](assignment-0-configure-environment.md)**  
    Set up your GitHub and Azure accounts, and fork this repository.
 
-1. **[Build, Push, and Deploy a Docker Container](assignment-1-build-push-deploy.md)**
-Learn how to containerize an application, push it to Azure Container Registry (ACR), and deploy it to Azure App Service using GitHub Actions.
+1. **[Build, Push, and Deploy EspoCRM Docker Image on Azure](assignment-1-build-push-deploy.md)**
+Learn how to containerize an application, push it to Azure Container Registry (ACR), and deploy it to Azure App Service using GitHub Actions and the [EspoCRM](https://www.espocrm.com/) as an example.
 
 ---
 

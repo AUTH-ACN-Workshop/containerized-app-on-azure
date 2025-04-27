@@ -5,7 +5,7 @@ Before you can deploy applications or use cloud services, you need to configure 
 ---
 
 ## ✅ Step 0: Navigate to This Repository
-You are already here! This is the starter repo containing a simple Python web app using Flask.
+You are already here! This is the starter repo containing the instructions for this workshop.
 
 ## ✅ Step 1: Create a GitHub Account
 
@@ -31,12 +31,12 @@ Azure is Microsoft's cloud platform. Students get free access to services and $1
 
 ---
 
-## ✅ Step 3: Fork This Repository
+## ✅ Step 3: Fork the [EspoCRM Docker](espocrm-docker) Repository
 
-You’ll work on your own copy of this lab project.
+For this lab, you’ll work on your own copy of the repository that provides the resources for building the image of the CRM application.
 
-1. In this GitHub repository, click the **Fork** button (top-right of the page).
-2. This will create a copy under your GitHub account.
+1. Go to the [espocrm-docker](https://github.com/espocrm/espocrm-docker) repository.
+2. Click the **Fork** button in the top right corner of the page. This will create a copy under your GitHub account.
 
 ---
 
@@ -54,4 +54,4 @@ cd hello-cloud-devops
 
 Congratulations! You have successfully set up your environment for this workshop. 🏆🏆
 
-You’re now ready to proceed to [Assignment 1: Deploy Web App to Azure](assignment-1-deploy-web-app.md) 🎯
+You’re now ready to proceed to [Assignment 1: Build, Push, and Deploy EspoCRM Docker Image on Azure](assignment-1-build-push-deploy.md)
